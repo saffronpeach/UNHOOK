@@ -27,7 +27,7 @@ Escape the Loop is a mobile-friendly progressive web app (PWA) that explores whe
 1. Clone this repository and enter the application folder:
 
    ```bash
-   git clone https://github.com/gnath-aswin/Unhook.git
+   git clone https://github.com/saffronpeach/UNHOOK.git
    cd Unhook 
    ```
 
