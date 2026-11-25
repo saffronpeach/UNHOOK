@@ -5,6 +5,9 @@
 Escape the Loop is a mobile-friendly progressive web app (PWA) that explores whether short, CBT-informed games, brief reflective check-ins, and small real-world actions can help people make more intentional choices about unwanted scrolling. It is designed with ADHD-related attention and task-transition difficulties in mind, but no diagnosis is required to try the prototype.
 
 > **Important:** This is an educational, behavioral-health *prototype*, **not** a medical device, ADHD treatment, diagnostic tool, or substitute for a licensed clinician. The effectiveness of this app has **not** been clinically validated.
+> 
+**Live Demonstration**
+Watch UNHOOK in action: https://youtu.be/fwenJaQ9G2U
 
 ## Features
 
